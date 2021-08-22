@@ -1,0 +1,2 @@
+# Virtual-Assistant
+This is a virtual assistant project created using python. Just like virtual assistants like Siri, Alexa we have "Alex" our own virtual assistant. The virtual assistant can do many tasks like introducing self, It can tell you the time, open social media sites (Facebook, Instagram) in your web browser, open music, photos all by using voice command, it can also send WhatsApp messages, and search about anything on google, Wikipedia. 
